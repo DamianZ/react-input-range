@@ -1,4 +1,10 @@
 <a name="1.3.0"></a>
+# [1.3.1](https://github.com/davidchin/react-input-range/compare/v1.3.0...v1.3.1) (2023-11-25)
+### Features
+
+* Support for nodejs v20
+
+<a name="1.3.0"></a>
 # [1.3.0](https://github.com/davidchin/react-input-range/compare/v1.2.2...v1.3.0) (2018-01-06)
 
 
